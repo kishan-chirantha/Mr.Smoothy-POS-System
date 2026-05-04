@@ -1,0 +1,10 @@
+# Ignore Database Connection file
+src/model/MySQL.java
+
+# Ignore Java compiled files
+*.class
+
+# Ignore NetBeans generated folders
+nbproject/private/
+build/
+dist/
