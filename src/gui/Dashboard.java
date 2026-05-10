@@ -249,7 +249,7 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/userIcon.png"))); // NOI18N
 
         jButton8.setFont(new java.awt.Font("Poppins", 0, 13)); // NOI18N
-        jButton8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/repots.png"))); // NOI18N
+        jButton8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/report.png"))); // NOI18N
         jButton8.setText("Reports");
         jButton8.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton8.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
