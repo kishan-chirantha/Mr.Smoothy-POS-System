@@ -122,7 +122,7 @@ public class DashboardView extends javax.swing.JPanel {
         jLabel7 = new javax.swing.JLabel();
         jLabel8 = new javax.swing.JLabel();
 
-        jPanel3.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel3.setBackground(new java.awt.Color(217, 217, 217));
         jPanel3.setPreferredSize(new java.awt.Dimension(1240, 813));
 
         jTextField1.setFont(new java.awt.Font("Poppins", 0, 12)); // NOI18N
