@@ -147,7 +147,7 @@ public class AddAddressWindow extends javax.swing.JDialog {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Add Address");
 
-        jPanel1.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel1.setBackground(new java.awt.Color(217, 217, 217));
 
         jLabel4.setFont(new java.awt.Font("Agency FB", 1, 30)); // NOI18N
         jLabel4.setText("ADDRESS MANAGEMENT");
