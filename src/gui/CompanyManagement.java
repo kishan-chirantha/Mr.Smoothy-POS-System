@@ -92,7 +92,7 @@ public class CompanyManagement extends javax.swing.JDialog {
         setTitle("Company Management");
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel1.setBackground(new java.awt.Color(217, 217, 217));
 
         jLabel4.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
         jLabel4.setText("COMPANY MANAGEMENT");

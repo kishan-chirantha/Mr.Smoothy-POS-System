@@ -238,7 +238,7 @@ public class CashierDashboard extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Cashier Dashoard");
 
-        jPanel2.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel2.setBackground(new java.awt.Color(217, 217, 217));
 
         jLabel5.setFont(new java.awt.Font("Poppins", 0, 12)); // NOI18N
         jLabel5.setText("Customer Name :");
