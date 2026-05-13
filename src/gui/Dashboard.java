@@ -325,7 +325,7 @@ public class Dashboard extends javax.swing.JFrame {
         jPanel2.setBackground(new java.awt.Color(237, 232, 245));
         jPanel2.setLayout(new java.awt.BorderLayout());
 
-        jPanel3.setBackground(new java.awt.Color(243, 244, 246));
+        jPanel3.setBackground(new java.awt.Color(217, 217, 217));
 
         jTextField1.setFont(new java.awt.Font("Poppins", 0, 12)); // NOI18N
         jTextField1.setForeground(new java.awt.Color(51, 51, 51));
