@@ -193,7 +193,7 @@ public class EmployeeManagement extends javax.swing.JPanel {
         jButton13 = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
 
-        jPanel2.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel2.setBackground(new java.awt.Color(217, 217, 217));
 
         jLabel4.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
         jLabel4.setText("EMPLOYEE MANAGEMENT");

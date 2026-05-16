@@ -90,7 +90,7 @@ public class EmployeeReport extends javax.swing.JPanel {
         jScrollPane1 = new javax.swing.JScrollPane();
         jTable1 = new javax.swing.JTable();
 
-        jPanel1.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel1.setBackground(new java.awt.Color(217, 217, 217));
         jPanel1.setPreferredSize(new java.awt.Dimension(1115, 613));
 
         jLabel1.setFont(new java.awt.Font("Poppins", 1, 24)); // NOI18N
