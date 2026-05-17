@@ -90,7 +90,7 @@ public class OrderReport extends javax.swing.JPanel {
 
         setPreferredSize(new java.awt.Dimension(1115, 613));
 
-        jPanel2.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel2.setBackground(new java.awt.Color(217, 217, 217));
         jPanel2.setPreferredSize(new java.awt.Dimension(1115, 613));
 
         jLabel2.setFont(new java.awt.Font("Poppins", 1, 24)); // NOI18N
