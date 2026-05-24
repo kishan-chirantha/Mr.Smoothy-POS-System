@@ -132,7 +132,7 @@ public class ProductManagement extends javax.swing.JPanel {
         jTextField3 = new javax.swing.JTextField();
         jButton11 = new javax.swing.JButton();
 
-        jPanel2.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel2.setBackground(new java.awt.Color(217, 217, 217));
         jPanel2.setPreferredSize(new java.awt.Dimension(1006, 632));
 
         jLabel4.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
@@ -142,7 +142,7 @@ public class ProductManagement extends javax.swing.JPanel {
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         jLabel5.setText("Product ID :");
 
-        jTextField1.setBackground(new java.awt.Color(237, 232, 245));
+        jTextField1.setBackground(new java.awt.Color(217, 217, 217));
         jTextField1.setFont(new java.awt.Font("Poppins", 0, 12)); // NOI18N
         jTextField1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         jTextField1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, new java.awt.Color(153, 153, 153), null, null));
