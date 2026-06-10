@@ -44,7 +44,7 @@ public class ReportManagement extends javax.swing.JPanel {
 
         jPanel1.setLayout(new java.awt.BorderLayout());
 
-        jPanel3.setBackground(new java.awt.Color(237, 232, 245));
+        jPanel3.setBackground(new java.awt.Color(217, 217, 217));
 
         jLabel4.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
         jLabel4.setText("REPORTS MANAGEMENT");
